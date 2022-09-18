@@ -1,5 +1,5 @@
 # NLW E-sports Trilha-Explorer
-Projeto construido no evento Next Level  Week
+Projeto construido no evento Next Level  Week DA Rocketseat!
 
 
 ## 🛠 Tecnologias
