@@ -1,9 +1,11 @@
 # NLW E-sports Trilha-Explorer
-Projeto construido no evento Next Level  Week da Rocketseat!
 
+![preview](./img/bg.jpg)
+
+Projeto construido no evento Next Level Week da Rocketseat!
 
 ## 🛠 Tecnologias
 
--- HTML
--- CSS
--- GIT E GITHUB
+-  HTML
+-  CSS
+-  GIT E GITHUB
