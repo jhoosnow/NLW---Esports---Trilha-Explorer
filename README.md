@@ -1,6 +1,6 @@
 # NLW E-sports Trilha-Explorer
 
-![preview](./img/bg.jpg)
+![preview](./img/preview.png)
 
 Projeto construido no evento Next Level Week da Rocketseat!
 
@@ -9,3 +9,11 @@ Projeto construido no evento Next Level Week da Rocketseat!
 -  HTML
 -  CSS
 -  GIT E GITHUB
+
+[clique aqui para acessar](https://jhoosnow.github.io/NLW---Esports---Trilha-Explorer/)
+
+## Contato 
+
+e-mail - johnnathan.edf@gmail.com
+
+Whatsapp - (88)9 9905-6486
